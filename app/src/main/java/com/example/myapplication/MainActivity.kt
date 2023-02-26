@@ -12,6 +12,5 @@ class MainActivity : AppCompatActivity() {
         val test = 112
         val test1 = 124556789
         val test2 = 112
-        val test3 = 124556789
     }
 }
