@@ -9,7 +9,7 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
         // TEST
 
-        val test2 = 112
         val test = 124556789
+        val test2 = 112
     }
 }
